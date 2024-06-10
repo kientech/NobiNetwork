@@ -60,7 +60,7 @@ const GoogleAuth = ({ prefix }) => {
         cursor={"pointer"}
       >
         <Image
-          src="/public/images/google.png"
+          src="images/google.png"
           alt="Google Logo"
           w={5}
           objectFit={"cover"}
